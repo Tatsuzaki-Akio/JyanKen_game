@@ -1,1 +1,2 @@
 # JyanKen_game
+# これはcustomTkinterの勉強のために作成したじゃんけんゲームです
